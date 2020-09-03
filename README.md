@@ -1,6 +1,6 @@
-# <a scr="http://clark.cs.ucr.edu/"> CLARK (metagenomics tools)</a>
+# <a url="http://clark.cs.ucr.edu/"> CLARK (metagenomics tools)</a>
 ----
-
+http://clark.cs.ucr.edu/
 
 
 #### AUTHORS
