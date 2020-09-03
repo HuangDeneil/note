@@ -1,3 +1,5 @@
+# CLARK (Metagenomics tools) 
+
 #### AUTHORS
 -----
 Rachid Ounit (1), Steve Wanamaker(2), Timothy J Close (2) and
